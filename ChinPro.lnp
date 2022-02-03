@@ -1,4 +1,0 @@
-"STARTUP.obj",
-"ChinPro.obj" 
-TO "ChinPro" 
-RAMSIZE(256) 
